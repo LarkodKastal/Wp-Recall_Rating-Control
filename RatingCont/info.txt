@@ -1,6 +1,6 @@
-Name: RetingCont;
+Name: RatingCont;
 Version: 1.2;
-Description: Simple Text;
+Description: RatingCont;
 Support Core: 10.0.0;
 Author: MefalDies;
 Author Uri: none;
