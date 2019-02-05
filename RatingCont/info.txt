@@ -1,0 +1,7 @@
+Name: RetingCont;
+Version: 1.2;
+Description: Simple Text;
+Support Core: 10.0.0;
+Author: MefalDies;
+Author Uri: none;
+Add-on Uri: none;
